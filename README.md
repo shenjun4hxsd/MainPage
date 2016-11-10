@@ -1,6 +1,6 @@
 ##博军一笑的个人主页
 
-![博军一笑](/assets/头像.JPG)
+<div align=center><img src="/assets/头像.JPG" width = "400" height = "400" alt="图片名称" align=center /></div>
 
 ---
 
