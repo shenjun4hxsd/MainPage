@@ -10,5 +10,6 @@
     * [3.1 ShaderLab 开发实战](https://shenjun4shader.github.io/shaderhtml/)
 * [4. C++ 专栏](4. C++ 专栏/4.0 C++ 专栏.md)
     * [4.1 C++ Primer Plus](https://shenjun4cplusplus.github.io/cplusplushtml/)
+    * 4.2 C++ 程序设计语言
 * [5. Unreal 专栏](5. Unreal 专栏/5.0 Unreal 专栏.md)
 
