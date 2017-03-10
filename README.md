@@ -4,9 +4,9 @@
 
 ## 一、C\#专栏
 
-### [1、C\#入门经典](https://shenjun4csharp.github.io/csharphtml/)
+### [1、C\#入门经典](https://shenjun4csharp.github.io/csharphtml/)（更新中...）
 
-### [2、C\#高级编程]()
+### [2、C\#高级编程]()（后续更新\)
 
 ## 二、Unity专栏
 
@@ -18,9 +18,9 @@
 
 ## 四、C++专栏
 
-### [1、C++ PrimierPlus](https://shenjun4cplusplus.github.io/cplusplushtml/)
+### [1、C++ PrimierPlus](https://shenjun4cplusplus.github.io/cplusplushtml/)（更新中...）
 
-### [2、C++ 程序设计语言](https://shenjun4cplusplus2.github.io/cplusplus2html/)
+### [2、C++ 程序设计语言](https://shenjun4cplusplus2.github.io/cplusplus2html/)（更新中...）
 
 ## 五、Unreal专栏
 
