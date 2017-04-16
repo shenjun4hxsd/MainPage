@@ -19,7 +19,7 @@
 
 ##&emsp;&emsp; 三、Shader专栏
 
-###&emsp;&emsp;&emsp;&emsp; [ShaderLay开发实战📒](https://shenjun4shader.github.io/shaderhtml/)
+###&emsp;&emsp;&emsp;&emsp; [ShaderLab开发实战📒](https://shenjun4shader.github.io/shaderhtml/)
 
 ##&emsp;&emsp; 四、C++专栏
 
