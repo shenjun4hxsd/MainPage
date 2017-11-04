@@ -21,7 +21,7 @@
 
 ###&emsp;&emsp;&emsp;&emsp; [ShaderLab开发实战📒](https://shenjun4shader.github.io/shaderhtml/)
 
-##&emsp;&emsp;四、Lua专栏
+##&emsp;&emsp; 四、Lua专栏
 ###&emsp;&emsp;&emsp;&emsp; [Lua程序设计](https://shenjun-coder.github.io/LuaBook/.)
 
 ##&emsp;&emsp; 五、C++专栏
