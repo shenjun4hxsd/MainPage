@@ -11,7 +11,7 @@
 
 ###&emsp;&emsp;&emsp;&emsp; [1、C\#入门经典📕](https://shenjun4csharp.github.io/csharphtml/)
 
-###&emsp;&emsp;&emsp;&emsp; 2、C\#高级编程
+###&emsp;&emsp;&emsp;&emsp; [2、C\#高级编程](https://shenjun-csharp.github.io/CSharpBook/.)
 
 ##&emsp;&emsp; 二、Unity 专栏
 
