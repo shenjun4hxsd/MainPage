@@ -1,8 +1,6 @@
-[![](/assets/屏幕快照 2017-12-02 上午10.58.10.png)](http://edu.hxsd.com/edunew/topics/2016izuve/topic.html)
-
+[![](/assets/屏幕快照 2017-12-02 上午10.58.10 1.png)](http://edu.hxsd.com/edunew/topics/2016izuve/topic.html)
 
 ---
-
 
 
 ##&emsp;&emsp; 一、C\# 专栏
