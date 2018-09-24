@@ -21,6 +21,7 @@
 ##&emsp;&emsp; 五、C++ 专栏
 
 ###&emsp;&emsp;&emsp;&emsp; [1、C++ PrimierPlus📙](https://shenjun4cplusplus.github.io/cplusplushtml/) &emsp;&emsp; [2、C++ 程序设计语言📓](https://shenjun4cplusplus2.github.io/cplusplus2html/)
+###&emsp;&emsp;&emsp;&emsp; [3、C++菜鸟教程（修订版）📗](https://shenjun4git.github.io/CPlusPlusCNHTML/)
 
 ##&emsp;&emsp; 六、Unreal 专栏
 
