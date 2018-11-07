@@ -31,6 +31,14 @@
 
 ### 🔥火星时代Unity程序专业 优秀学员作品
 
+&emsp;&emsp;●[火星时代Unity程序专业1807期学员作品 《斗神传说》🔥](http://v.youku.com/v_show/id_XMzkwNTMyODc2OA==.html?spm=a2h3j.8428770.3416059.1)
+
+&emsp;&emsp;●[火星时代Unity程序专业1807期学员作品 《Ac.Lett》🔥](http://v.youku.com/v_show/id_XMzkwNjI1ODYxMg==.html?spm=a2h3j.8428770.3416059.1)
+
+&emsp;&emsp;●[火星时代Unity程序专业1807期学员作品 《守护者》🔥](http://v.youku.com/v_show/id_XMzkwNjI0Nzc4MA==.html?spm=a2h3j.8428770.3416059.1)
+
+&emsp;&emsp;●[火星时代Unity程序专业1807期学员作品 《斗罗大陆》🔥](http://v.youku.com/v_show/id_XMzkwODYxNzE1Mg==.html?spm=a2h3j.8428770.3416059.1)
+
 &emsp;&emsp;●[火星时代Unity程序专业1803期学员作品 《蔷薇少女》🔥](https://v.youku.com/v_show/id_XMzcxODQyNDk4NA==.html?spm=a2h3j.8428770.3416059.1)
 
 &emsp;&emsp;●[火星时代Unity程序专业1711期学员作品 《Desperate》🔥](http://v.youku.com/v_show/id_XMzQ5MDM2ODQwMA==.html?spm=a2h3j.8428770.3416059.1)
