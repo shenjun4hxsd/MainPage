@@ -32,117 +32,41 @@
 ### 🔥火星时代Unity程序专业 优秀学员作品
 
 &emsp;&emsp;●[火星时代Unity程序专业1807期学员作品 《斗神传说》🔥](http://v.youku.com/v_show/id_XMzkwNTMyODc2OA==.html?spm=a2h3j.8428770.3416059.1)
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzkwNTMyODc2OA==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzkwNTMyODc2OA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 
 &emsp;&emsp;●[火星时代Unity程序专业1807期学员作品 《Ac.Lett》🔥](http://v.youku.com/v_show/id_XMzkwNjI1ODYxMg==.html?spm=a2h3j.8428770.3416059.1)
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzkwNjI1ODYxMg==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzkwNjI1ODYxMg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;●[火星时代Unity程序专业1807期学员作品 《守护者》🔥](http://v.youku.com/v_show/id_XMzkwNjI0Nzc4MA==.html?spm=a2h3j.8428770.3416059.1)
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzkwNjI0Nzc4MA==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzkwNjI0Nzc4MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;●[火星时代Unity程序专业1807期学员作品 《斗罗大陆》🔥](http://v.youku.com/v_show/id_XMzkwODYxNzE1Mg==.html?spm=a2h3j.8428770.3416059.1)
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzkwODYxNzE1Mg==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzkwODYxNzE1Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;●[火星时代Unity程序专业1803期学员作品 《蔷薇少女》🔥](https://v.youku.com/v_show/id_XMzcxODQyNDk4NA==.html?spm=a2h3j.8428770.3416059.1)
-
-<iframe 
-    height=450 
-    width=800 
-    src="https://v.youku.com/v_show/id_XMzcxODQyNDk4NA==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzcxODQyNDk4NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;●[火星时代Unity程序专业1711期学员作品 《Desperate》🔥](http://v.youku.com/v_show/id_XMzQ5MDM2ODQwMA==.html?spm=a2h3j.8428770.3416059.1)
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzQ5MDM2ODQwMA==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzQ5MDM2ODQwMA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;● [火星时代Unity程序专业1707期学员作品 《无尽地牢》🔥](http://v.youku.com/v_show/id_XMzEyOTc3ODkyNA==.html?spm=a2h3j.8428770.3416059.1)
-
 <embed src='http://player.youku.com/player.php/sid/XMzEyOTc3ODkyNA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;● [火星时代Unity程序专业1707期学员作品 《阴阳说》🔥 入围腾讯游戏大赛全国十强 人气第一名](http://v.youku.com/v_show/id_XMzEyOTc0MDcwNA==.html?spm=a2h3j.8428770.3416059.1)
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzEyOTc0MDcwNA==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzEyOTc0MDcwNA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;● [火星时代Unity程序专业1707期学员作品 《黑色任务》](http://v.youku.com/v_show/id_XMzEyOTgyNTQzNg==.html?spm=a2h3j.8428770.3416059.1)
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzEyOTgyNTQzNg==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzEyOTgyNTQzNg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;● [火星时代Unity程序专业1707期学员作品 《东方之森》](http://v.youku.com/v_show/id_XMzEyOTgxOTY4MA==.html?spm=a2h3j.8428770.3416059.1)
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzEyOTgxOTY4MA==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzEyOTgxOTY4MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;● [火星时代Unity程序专业1707期学员作品 《AZURE》](http://v.youku.com/v_show/id_XMzEyOTg2MjE4MA==.html?spm=a2h3j.8428770.3416059.1)
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzEyOTg2MjE4MA==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzEyOTg2MjE4MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;● [火星时代Unity程序专业1707期学员作品 《黑暗丁泽尔》](http://v.youku.com/v_show/id_XMzEyOTg5NDU5Mg==.html?spm=a2h3j.8428770.3416059.1)
-
-<iframe 
-    height=450 
-    width=800 
-    src="http://v.youku.com/v_show/id_XMzEyOTg5NDU5Mg==.html?spm=a2h3j.8428770.3416059.1" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzEyOTg5NDU5Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
 &emsp;&emsp;● [火星时代Unity程序专业1707期学员作品 《Rebirth》](http://v.youku.com/v_show/id_XMzEyOTkxMTgzNg==.html?spm=a2h3j.8428770.3416059.1)
 
